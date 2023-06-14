@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 0px;
+    padding: 5px;
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 
@@ -18,7 +18,7 @@ html {
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url(images/background.png);
+    background-image: url(images/aziza.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -441,7 +441,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/phone-background.png);
+        background-image: url(images/zz-phone.png);
     }
     .header-text{
         margin-top: 100%;
